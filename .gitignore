@@ -1,0 +1,18 @@
+# Do repozitára ide len kód. Všetko ostatné (modely, textúry, zvuky, scény, prefaby, assety tretích strán, zálohy) sa ignoruje.
+*
+!*/
+!/.gitignore
+!/README.md
+!Assets/*.cs
+!Assets/*.cs.meta
+!Assets/Editor/*.cs
+!Assets/Editor/*.cs.meta
+!Assets/Shaders/*.shader
+!Assets/Shaders/*.shader.meta
+!Assets/Resources/*.shader
+!Assets/Resources/*.shader.meta
+!Assets/Resources/*.tss
+!Assets/Resources/*.tss.meta
+!Packages/manifest.json
+!Packages/packages-lock.json
+!ProjectSettings/ProjectVersion.txt
